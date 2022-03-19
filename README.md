@@ -1,6 +1,6 @@
 ##  &nbsp;
 
-## [Main](./README.md#Main)  [Pubilication](./README.md#Pubilication)  [Project](./README.md#Project)
+## [Main](#Main)  &nbsp;&nbsp; [Pubilication](#Pubilication) &nbsp;&nbsp; [Project](#Project)
 
 ---
 
