@@ -1,4 +1,6 @@
-**[Main](./README.md#Main)  [Pubilication](./README.md#Pubilication)  [Project](./README.md#Project)**
+## [`Main`](./README.md#Main)  [`Pubilication`](./README.md#Pubilication)  [`Project`](./README.md#Project)
+
+---
 
 ### Main
 I am currently working toward the Ph.D. degree with the School of Mathematical Sciences, Dalian University of Technology, and now as a visiting student at Singapore University of Technology and Design. My research interests include deep learning, point cloud processing, and object tracking. 
