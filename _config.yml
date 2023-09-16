@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Shengjing Tian"
 title_separator          : "-"
-name                     : &name "Sheng-jing Tian"
+name                     : &name "Shengjing Tian"
 description              : &description "personal description"
 url                      : https://StrivedTye.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shengjing Tian"
   avatar           : "profile.png"
-  bio              : "Welcome! "
+  bio              : "Welcome! Email：tye.dut@gmail.com "
   location         : "China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
