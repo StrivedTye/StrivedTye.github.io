@@ -3,7 +3,7 @@ title: "Visual Tracking Jointly with Online and Offline Learning"
 collection: publications
 permalink: /publication/2020-01-01-paper-MetricTrack
 excerpt: 
-date: 2020-01-01
+date: 2017-01-01
 venue: 'IEEE Access'
 paperurl: 
 citation: 
