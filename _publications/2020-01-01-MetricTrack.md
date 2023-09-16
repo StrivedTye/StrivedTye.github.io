@@ -10,4 +10,4 @@ citation:
 ---
 
 
-Recommended citation: **Shengjing Tian***, Shuwei Shen, Guoqiang Tian, Xiuping Liu, Baocai Yin. End-to-end deep metric network for visual tracking. The Visual Computer. 2020, 36(6):1219-1232.
+Recommended citation: Shengjing Tian*, Shuwei Shen, Guoqiang Tian, Xiuping Liu, Baocai Yin. End-to-end deep metric network for visual tracking. The Visual Computer. 2020, 36(6):1219-1232.

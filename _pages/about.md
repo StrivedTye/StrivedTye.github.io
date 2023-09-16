@@ -14,5 +14,10 @@ I was a visiting student at [SUTD Computer Vision & Learning Group](https://peop
 I also did a intership at Hisen Intelligence Transport Group, Qingdao. 
 My research interests include multimodal deep learning, point cloud processing and computer vision.
 
-<br/><img src="images/pointcloud.png">
-<br/><img src="images/3dtracking.gif">
+<p align="center">
+    <img src="images/pointcloud.png", width="500">
+</p>
+
+<p align="center">
+    <img src="images/3dtracking.gif", width="500">
+</p>
