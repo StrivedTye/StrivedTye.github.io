@@ -1,9 +1,9 @@
 ---
 title: "Towards Class-agnostic Tracking Using Feature Decorrelation in Point Clouds"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2023-01-01-ClassAgnosticTrack
 excerpt: 
-date: 2023
+date: 2023-01-01
 venue: 'IEEE Transactions on Image Processing'
 paperurl: 
 citation: 

@@ -1,9 +1,9 @@
 ---
 title: "End-to-end deep metric network for visual tracking"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2020-01-01-paper-MetricTrack
 excerpt: 
-date: 2020
+date: 2020-01-01
 venue: 'The Visual Computer'
 paperurl: 
 citation: 
