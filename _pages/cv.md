@@ -12,17 +12,17 @@ redirect_from:
 Education
 ======
 * B.S. in College of Science, Northeast Electric Power University, 2012.09-2016.07
-* Ph.D in School of Mathematics, Dalian University of Tecchnology, 2018.09-2022.07
-* Visting Ph.D in ISTD Pillar, Singapore University of Technology and Design ISTD Pillar, 2021.05-2022.05 
+* Ph.D in School of Mathematical Sciences, Dalian University of Tecchnology, 2018.09-2022.07
+* Visting Ph.D in ISTD Pillar, Singapore University of Technology and Design, 2021.05-2022.05 
 
 Work experience
 ======
 
-* Fall 2022: Postdoctoral teaching fellow
+* Oct. 2022 - Now: Postdoctoral teaching fellow
   * China University of Mining and Technology
   * Duties included: Research, Assistant teaching
   
-* Summer 2018: Research Assistant
+* Jul. 2018 - Sep. 2018: Research Assistant
   * Hisen
   * Duties included: Solar deployment
   
@@ -57,4 +57,4 @@ Service and leadership
 ======
 * CCF Intelligent Robot, Committee
 * CSIAM 
-* Reviewer: many journals
+* Reviewer: many journals...
