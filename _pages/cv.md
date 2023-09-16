@@ -11,30 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in College of Science, Northeast Electric Power University, 2012.09-2016.07
+* Ph.D in School of Mathematics, Dalian University of Tecchnology, 2018.09-2022.07
+* Visting Ph.D in ISTD Pillar, Singapore University of Technology and Design ISTD Pillar, 2021.05-2022.05 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2022: Postdoctoral teaching fellow
+  * China University of Mining and Technology
+  * Duties included: Research, Assistant teaching
   
-Skills
+* Summer 2018: Research Assistant
+  * Hisen
+  * Duties included: Solar deployment
+  
+Research interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine Learning
+* Multimodal 
+  * Image/video
+  * Point cloud
+  * Text
+* 3D Vision
 
 Publications
 ======
@@ -56,4 +55,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* CCF Intelligent Robot, Committee
+* CSIAM 
