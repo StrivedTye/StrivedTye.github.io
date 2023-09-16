@@ -14,7 +14,12 @@
   <component name="ProjectId" id="2VTA786war3dRi6YjRb9D4NlRf8" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_publications" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Study\code\StrivedTye.github.io\_publications" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -38,7 +43,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1694849525928</updated>
-      <workItem from="1694849554366" duration="2519000" />
+      <workItem from="1694849554366" duration="5912000" />
     </task>
     <servers />
   </component>
