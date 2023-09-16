@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sheng-jing Tian"
+title                    : "Shengjing Tian"
 title_separator          : "-"
 name                     : &name "Sheng-jing Tian"
 description              : &description "personal description"
