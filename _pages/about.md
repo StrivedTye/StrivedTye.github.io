@@ -16,5 +16,4 @@ My research interests include multimodal deep learning, point cloud processing a
 
 <br/><img src="images/pointcloud.png">
 
-！[image](https://github.com/StrivedTye/StrivedTye.github.io/blob/master/images/3dtracking.gif)
-
+![image](https://github.com/StrivedTye/StrivedTye.github.io/blob/master/images/3dtracking.gif)
