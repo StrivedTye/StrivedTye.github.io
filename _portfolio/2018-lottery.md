@@ -1,5 +1,5 @@
 ---
-title: "Anomaly detection of lottery sales based on AI"
+title: "Anomaly detection of lottery sales with AI algorithm"
 excerpt: "With company: China Lottery, Project proposer and participant.
           "
 collection: portfolio

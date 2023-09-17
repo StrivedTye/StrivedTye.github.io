@@ -1,5 +1,5 @@
 ---
-title: "Research on Domain Generalization in Point Cloud Object Tracking Using Cross-modal Knowledge Distillation Learning"
+title: "Point Cloud Object Tracking Using Cross-modal Knowledge Distillation Learning"
 excerpt: "China Postdoctoral Science Foundation, Leader."
 collection: portfolio
 ---
