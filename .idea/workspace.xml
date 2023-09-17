@@ -28,10 +28,11 @@
   <component name="ProjectId" id="2VTA786war3dRi6YjRb9D4NlRf8" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_publications" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_portfolio" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Study\code\StrivedTye.github.io\_portfolio" />
       <recent name="D:\Study\code\StrivedTye.github.io\_publications" />
     </key>
   </component>
@@ -58,7 +59,8 @@
       <option name="presentableId" value="Default" />
       <updated>1694849525928</updated>
       <workItem from="1694849554366" duration="14391000" />
-      <workItem from="1694870501923" duration="58000" />
+      <workItem from="1694870501923" duration="93000" />
+      <workItem from="1694912641231" duration="2272000" />
     </task>
     <servers />
   </component>
