@@ -15,5 +15,5 @@ I also did a intership at Hisen Intelligence Transport Group, Qingdao.
 My research interests include multimodal deep learning, point cloud processing and computer vision.
 
 <br/><img src="images/pointcloud.png">
+<br/><img src="images/3dtracking.gif">
 
-![image](https://github.com/StrivedTye/StrivedTye.github.io/blob/master/images/3dtracking.gif)
