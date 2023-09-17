@@ -30,9 +30,9 @@ Research interests
 ======
 * Machine Learning
 * Multimodal 
-  * Image/video
-  * Point cloud
-  * Text
+  * Images/videos
+  * Point clouds
+  * Texts
 * 3D Vision
 
 Publications
