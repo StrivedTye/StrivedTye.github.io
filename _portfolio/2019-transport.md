@@ -1,6 +1,6 @@
 ---
 title: "城市交通出行规律挖掘与演化分析"
-excerpt: "国家自然科学基金项目, 学生参与."
+excerpt: "国家自然科学基金项目, 参与学生."
 collection: portfolio
 ---
 
