@@ -10,4 +10,4 @@ citation:
 ---
 
 
-Recommended citation: Shengjing Tian, Jun Liu, and Xiuping Liu. Towards Class-agnostic Tracking Using Feature Decorrelation in Point Clouds. IEEE Transactions on Image Processing. Accept.
+Recommended citation: Shengjing Tian*, Jun Liu, and Xiuping Liu. Towards Class-agnostic Tracking Using Feature Decorrelation in Point Clouds. IEEE Transactions on Image Processing. Accept.
