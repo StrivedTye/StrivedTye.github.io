@@ -10,4 +10,4 @@ citation:
 ---
 
 
-Recommended citation: Yuhao Bian; Shengjing Tian; Xiuping Liu. iBA: Backdoor Attack on 3D Point Cloud via Reconstructing Itself. IEEE Transactions on Information Forensics and Security. 2024. 19：7994-8008.
+Recommended citation: Yuhao Bian; Shengjing Tian; Xiuping Liu. iBA: Backdoor Attack on 3D Point Cloud via Reconstructing Itself. IEEE Transactions on Information Forensics and Security. 2024, 19：7994-8008.

@@ -10,4 +10,4 @@ citation:
 ---
 
 
-Recommended citation: Qi Lang; Shengjing Tian; Mo Wang; Jianan Wang. Exploring the Answering Capability of Large Language Models in Addressing Complex Knowledge in Entrepreneurship Education. IEEE Transactions on Learning Technologies. 2024. 17：2107-2116.
+Recommended citation: Qi Lang; Shengjing Tian; Mo Wang; Jianan Wang. Exploring the Answering Capability of Large Language Models in Addressing Complex Knowledge in Entrepreneurship Education. IEEE Transactions on Learning Technologies. 2024, 17：2107-2116.
